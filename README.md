@@ -14,6 +14,14 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 感谢黑果小兵daliansky
 
+适用于HD530的100系主板的请阅读：
+
+https://github.com/Lubibest/100-series-hackintosh-mojave
+
+适用于uhd630的300系主板的请阅读：
+
+https://github.com/Lubibest/300-series-hackintosh-mojave
+
 AMD+INTEL-Mojave 10.14.5
 
 镜像下载：https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
@@ -26,20 +34,7 @@ Nvdia-High Sierra 10.13.6
 
 镜像下载：https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
-准备工作：
-
-一、安装前：
-所需要使用的软件
-
-Etcher+DG分区工具 写入镜像需要使用的软件及分区助手
-
-Etcher下载链接：https://www.balena.io/etcher/
-
-DG分区工具下载链接：
-
-苹果制作启动U盘命令https://www.iplaysoft.com/macos-usb-install-drive.html
-
-二、安装
+一、安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 1.NVDIA显卡的机器
 
