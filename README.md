@@ -36,7 +36,11 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 
 
 镜像下载：https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
-### 一、安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+### 一、安装教程
+
+https://github.com/Lubibest/How-to-install-a-Hackintosh
+
+### 二、安装
 
 #### 1.AMD显卡
 
@@ -44,15 +48,9 @@ AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
-
-用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-AMD.zip
+用**clover configurator**替换U盘的**ESP分区**的EFI文件为**EFI-for-after install-AMD.zip**
 
 重启生效
 
@@ -66,13 +64,7 @@ Intel HD630 核显推荐安装mojave10.14.5
 
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
-
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
@@ -86,13 +78,7 @@ nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
 
 https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
-
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
 
@@ -104,7 +90,7 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 如需要技术支持，请加我的QQ
 
-### 二、.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
+### 三、.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
 AppleALC支持的Codecs列表及AppleALC的使用
 
@@ -126,7 +112,9 @@ clover configuratoer
 
 Devices/Audio/inject(手动输入）
 
-### 三、注意事项：
+![](https://github.com/Lubibest/300-series-hackintosh-mojave/blob/master/appleALC.png)
+
+### 四、注意事项：
 
 安装过程如果遇到任何问题，请查阅黑果小兵的两篇教程,如下：
 
@@ -138,7 +126,7 @@ macOS 10.13安装中常见的问题及解决方法
 
 https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html
 
-### 四、.本教程适用的搭载7代CPU（HD630）主板安装黑苹果，主板包括
+### 五、.本教程适用的搭载7代CPU（HD630）主板安装黑苹果，主板包括
 
 微星B250,微星Z270（微星H110,微星b150,微星Z170）
 
@@ -154,9 +142,9 @@ B250,Z270,H110,B150,Z170芯片组的台式机电脑
 
 如有疑问，请添加QQ：2489050703 Genius-lbesT
 
-### 五、AMD显卡的EFI将在后续的os版本升级中得到更新
+### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
-### 六、.本教程EFI
+### 七、本教程EFI
 
 由
 
