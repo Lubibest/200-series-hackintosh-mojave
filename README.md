@@ -82,11 +82,11 @@ https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-
 
 请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
 
-bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)
+`bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)`
 
 重启生效
 
-由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
+由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover
 
 ### 三、.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
