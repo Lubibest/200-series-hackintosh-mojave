@@ -88,8 +88,6 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
 
-如需要技术支持，请加我的QQ
-
 ### 三、.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
 AppleALC支持的Codecs列表及AppleALC的使用
@@ -139,8 +137,6 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 B250,Z270,H110,B150,Z170芯片组的台式机电脑
 
 具体请自行测试。
-
-如有疑问，请添加QQ：2489050703 Genius-lbesT
 
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
