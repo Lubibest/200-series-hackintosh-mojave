@@ -62,7 +62,7 @@ nvdia显卡推荐安装10.13.6（17G65)，[镜像下载](https://blog.daliansky.
 
 使用[**EFI-for-install**](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-请在安装完成后使用终端运行下面的命令，并用**「clover configurator」**替换硬盘的ESP分区的EFI文件为[EFI-for-after install-nvdia.zip](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/EFI-for-after%20install-nvdia.zip)
+请在安装完成后使用终端运行下面的命令，并用**「clover configuratoer」**替换硬盘的ESP分区的EFI文件为[EFI-for-after install-nvdia.zip](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/EFI-for-after%20install-nvdia.zip)
 
 `bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)`
 
