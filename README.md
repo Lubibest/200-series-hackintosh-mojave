@@ -1,8 +1,6 @@
 # 200-series-hackintosh-mojave
 
-##### 作者：**Genius-lbesT** 
-
-##### 黑苹果Genius
+##### 作者：**Genius-lbesT**    黑苹果Genius
 
 本教程制作为**7代hd630**核显台式机CPU通用的安装及完善驱动.
 
@@ -20,6 +18,8 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 
 
 感谢黑果小兵daliansky
 
+#### AMD+INTEL-Mojave 10.14.6          [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html)
+
 #### AMD+INTEL-Mojave 10.14.5           [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
 #### AMD+INTEL-Mojave 10.14.4           [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html)
@@ -31,6 +31,12 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 
 [How-to-install-a-Hackintosh](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
 ### 二、安装
+
+## 20190726 update
+
+上传附件[**200-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/200-series-hackintosh-mojave-10.14.6-AMD.zip)，支持7代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
+
+有问题请加群问。
 
 #### 1.AMD显卡
 
@@ -140,4 +146,4 @@ qq群：724096369
 
 ![](https://github.com/Lubibest/Hackintosh/blob/master/JPG/QQ.png)
 
- **黑苹果Genius**  [打赏](https://github.com/Lubibest/About-Genius-lbesT)
+ **黑苹果Genius**   [打赏](https://github.com/Lubibest/About-Genius-lbesT)
