@@ -10,11 +10,10 @@
 
 ## 正文
 
-**AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.**
+## 20190726 update
 
-EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4928（nvdia)/clover 4928(AMD+INTEL)提取.
+上传附件[**200-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/200-series-hackintosh-mojave-10.14.6-AMD.zip)，更新CLOVER至5027，支持7代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
 
-**NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5**
 
 感谢黑果小兵daliansky
 
@@ -31,10 +30,6 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 
 [How-to-install-a-Hackintosh](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
 ### 二、安装
-
-## 20190726 update
-
-上传附件[**200-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/200-series-hackintosh-mojave/raw/master/200-series-hackintosh-mojave-10.14.6-AMD.zip)，支持7代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
 
 有问题请加群问。
 
